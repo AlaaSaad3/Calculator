@@ -1,0 +1,48 @@
+body {
+
+    background-color: saddlebrown;
+
+}
+
+#calculator {
+    margin: 0 auto;
+    margin-top: 70px;
+    height: auto;
+    width: 400px;
+    background-color: beige;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 3px 3px burlywood;
+}
+
+.indicator{
+    text-align: center;
+    padding: 10px 0 10px 0;
+
+}
+
+#result{
+    padding:10px;
+    width: 80%;
+    border-radius: 10px;
+    border-color: burlywood;
+    box-shadow: 3px 3px burlywood;
+    text-align: right;
+    font-size: 30px;
+}
+
+#buttons{
+    text-align: center;
+  
+}
+button{
+   width: 80px;
+    height: 50px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: burlywood;
+    outline: none; 
+   font-size: 20px;
+    font-weight: bolder; 
+    border-color: #fff;
+}
